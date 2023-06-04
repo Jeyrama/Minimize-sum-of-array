@@ -11,3 +11,4 @@ minSum({5,4,2,3}) ==> return (22)
 */
 
 
+// Solution
